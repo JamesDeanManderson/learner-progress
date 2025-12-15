@@ -3,7 +3,6 @@
 namespace App\Actions;
 
 use App\Models\Learner;
-use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Collection;
 
 class GetFilteredLearnersProgressAction
