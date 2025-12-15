@@ -35,7 +35,9 @@ Before you begin, ensure you have the following installed on your Linux machine:
    cp .env.example .env
    ```
 5. **Configure database connection in `.env`**
+   ```bash
    Use `sqlite`, `mysql`, or `pgsql` for `DB_CONNECTION`
+   ```
 
 6. **Generate application key**
    ```bash
